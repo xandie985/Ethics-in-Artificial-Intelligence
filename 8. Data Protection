@@ -1,0 +1,81 @@
+# GDPR:
+### Personal Data (PD)
+Informaiton that has direct relation to a person's identity. These information can be used to track back to an individual. 
+•	Anonymisation – removing data so person cannot be retraced
+•	Pseudonymisation – separate the user ID data and keep it apart | only few people can access that data. Inferred data can be kept public.
+
+AI and PD – AI can infer more information from anonymised data, can cause re-identification of person.
+
+---
+Re-identification
+By AI and stastical correlation, connecting people with nonidentifiable data. 
+2016 - reidentified politicials in anonymised data of 3 million citizens. 
+Australia - reidentified all people based on taxi, bike, subway, phone usage data and credit card datasets. 
+
+-
+Solution of above problems using AI and GDPR
+1. find ways so reidentification is not possible.
+2. implementing more security for data release
+
+-
+Inferred personal Data
+extracting new data from different sources. 
+By face -> sex
+online activity -> personality
+
+---
+Profiling
+automated processing of personal data. 
+predicting
+•	performance at work
+•	economic situation
+•	health
+•	behaviour
+•	interest etc.
+decision made on profiling may be biased.
+When AI learns the response of the person to a stimuli -> it can start manipulating him/her. Unethical process.
+
+-
+### Legal status of Inferred data
+1. Model doesnt contains personal data after learning is finished.
+2. It combines possible input & likelihood to all individuals with similiar characterstics.
+3. When model is applied to new individual the personal data and outcome of the model for that person is personal data.
+
+The inferred data based on our behaviour is also personal data. People have right to access the data. Article 29.
+
+Right to rectification. 
+people can ask for rectification if the inferred data is not appropriate. He/she can ask for changes.
+But point is - where to make changes? collected data or inferred data.
+
+Acceptability -i/p data should be acceptable and not based of prohibited features - sex/rate/color
+Relevance - inferred data should be reelevant to the decision. - credit card based on race/color
+Reliability - i/p data and methods used to process should be reliable.
+
+---
+Consent
+clear affirmative action to process personal data related to a person.
+Issues:
+	cookie consent 
+	- by default it is set to yes
+	- the people dont know have knowledge about it accept it
+	- at time of consent - person doesnt know about future use.
+
+Consent GDRP rules:
+1. Specificity 
+	- consent has to be precific. 
+	- should indicate each purpose.
+	- people should know what the data will be used for in case of scientific studies
+2. Granularity
+	- for each activity seperate consent
+3. Freedom
+	- consent is not legal justification in case personal data is used when there is imbalance between data subject and controller.
+	- service provider should not ask for consent irrelevant to the  service provided.
+	
+AI and Data Protection principles
+Transparency
+	- users of system should know how system will process their data.
+Fairness
+	- users should not be tricked into unknown/unintended purposes. 
+	- Dark Pattern: forced, bait, hidden cost and manipulated buying behaviour
+Purpose Limitation
+	- collected data should be collected for purpose that is legitimate &  specified explicitly.
