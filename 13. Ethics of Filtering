@@ -1,0 +1,44 @@
+## DSA 
+regulation of digital servies on online platforms
+
+User generated content:
+- cultural, experessiveness, engagement etc.
+
+## Moderation
+Keep a check on the content so websites remain - lawful, productive and social.
+
+Why Filtering?
+- To preventve unlawful/harmfull online behaviour
+- prevent abuse 
+- facilitate cooperation
+
+## Taxonomy - techniques to be taken for filtering.
+Where?
+- centralized filtering: whole platform
+- decentralized filtering: there is degree of freedom, different policies on different subset of platform 
+
+When?
+- Ex ante filtering: automatically removal before the content is posted.
+- Ex poste filtering: people can access the post
+  * Reactive filtering -  people signal about the item.
+  * Proactive filtering - moderation system finds it out before people point out.
+
+How?
+- Transparent filtering: kinds of content that is not allowed.
+  * Contestable filtering: platform provides the uploader object the filtering, and new decision can be made.
+  * Non- Contestable filtering: no remedy is provided to uploader.
+- Secret filtering: the operation of removed content is unknown to people. 
+
+Who?
+- Manual filtering: humans perform.
+- Automated filtering: algo perform.
+- Hybrid filtering: both perform.
+
+### Different Media
+1. Metadata searching, hashing & fingerprinting - to find duplicate copies of digital documents/data.
+2. Blacklisting - unwanted expressions.
+3. NLP - addresses the meaning and context. 
+4. AI techniques - identify images/text/speech/etc.
+
+Working:
+
